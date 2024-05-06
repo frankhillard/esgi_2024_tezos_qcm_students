@@ -10,9 +10,9 @@ Your mission: As an expert of LIGO, repare the source code by answering correctl
 - ![Tests](qcm/3_qcm_tests.mligo.md)
 
 
-+-----------+------------+
+
 | questions | difficulty |  
-+-----------+------------+
+|-----------|------------|
 |    Q1     |   easy     |
 |    Q2     |   easy     |
 |    Q3     |   easy     |
